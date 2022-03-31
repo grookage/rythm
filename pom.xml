@@ -9,7 +9,7 @@
 
     <name>rythm</name>
     <url>https://github.com/grookage/rythm</url>
-    <description>A search DSL written in java</description>
+    <description>A search DSL written in java for general purpose usages</description>
     <inceptionYear>2019</inceptionYear>
 
     <licenses>
