@@ -53,7 +53,7 @@
         <jacoco.reportPath>${project.basedir}/../target/jacoco.exec</jacoco.reportPath>
 
         <!--Sonar properties-->
-        <sonar.organization>rythm</sonar.organization>
+        <sonar.organization>grookage</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <sonar.coverage.exclusions>
