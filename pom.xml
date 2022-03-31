@@ -5,7 +5,7 @@
     <groupId>com.grookage.apps</groupId>
     <artifactId>rythm</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <name>rythm</name>
     <url>https://github.com/grookage/rythm</url>
